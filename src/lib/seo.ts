@@ -3,8 +3,8 @@ import { Metadata } from 'next'
 const siteConfig = {
   name: 'Adbhut India',
   description: 'Multi-vertical business portfolio offering real estate, IRCTC food delivery, advertising solutions, and soft toys in Lucknow.',
-  url: 'https://www.adbhutindia.co.in',
-  ogImage: 'https://www.adbhutindia.co.in/og-image.jpg',
+  url: 'https://www.adbhutindia.in',
+  ogImage: 'https://www.adbhutindia.in/og-image.jpg',
   keywords: [
     'Adbhut India',
     'Real Estate Lucknow',
